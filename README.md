@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nashiusagi
 - 👀 My old account: @Ryogo-san
-- 😀 My portofolio: [nashiusagi.github.io](nashiusagi.github.io)
+- 😀 My portofolio: [nashiusagi.github.io](https://nashiusagi.github.io/)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashiusagi&layout=compact&count_private=true&show_icons=true&theme=onedark" />
