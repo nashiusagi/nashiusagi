@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nashiusagi
-- 👀 My old account: @Ryogo-san
 - 😀 My portofolio: [nashiusagi.github.io](https://nashiusagi.github.io/)
 
 <p align="left"> 
